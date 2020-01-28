@@ -1,6 +1,6 @@
 # Kcolauncher
 
-[中文README]()
+[中文README](https://github.com/kongjune/kcolauncher/blob/master/README-zh_CN.md)
 
 This is a newly-started and cross-platform Minecraft Launcher built with **electron**.
 
