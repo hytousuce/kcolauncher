@@ -6,7 +6,7 @@ This is a newly-started and cross-platform Minecraft Launcher built with **elect
 
 It's created at the aim of providing a Chinese-friendly, internationalized, beautiful and easy-to-use Minecraft launcher.
 
-**It is still under developing.**
+**The project is still under development.**
 
 <!-- #### Build Setup
 
