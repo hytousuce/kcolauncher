@@ -1,9 +1,28 @@
 # Kcolauncher
 
-[中文README](https://github.com/kongjune/kcolauncher/blob/master/README-zh_CN.md)
+> A Cross-platform Minecraft Launcher.
 
 This is a newly-started and cross-platform Minecraft Launcher built with **electron**.
 
 It's created at the aim of providing a Chinese-friendly, internationalized, beautiful and easy-to-use Minecraft launcher.
 
-If you like it, thank you for your appreciation. I hope that you will look forward to its coming.
+**It is still under developing.**
+
+<!-- #### Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:9080
+npm run dev
+
+# build electron application for production
+npm run build
+
+
+``` -->
+
+---
+
+This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[45a3e22](https://github.com/SimulatedGREG/electron-vue/tree/45a3e224e7bb8fc71909021ccfdcfec0f461f634) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
